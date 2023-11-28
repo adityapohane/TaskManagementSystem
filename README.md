@@ -8,7 +8,7 @@ you can delete it also You can Mark as Done.
 Getting Started
 Installation:
 
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/adityapohane/TaskManagementSystem.git
 Install dependencies: npm install
 Configuration:
 
